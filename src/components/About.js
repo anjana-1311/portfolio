@@ -8,10 +8,10 @@ export default function About() {
             <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
                 <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
                     <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-                        Gaurav Gurjar is a Data Consultant. He lives in Dubai.
+                        Anjana Gurjar is a Web Designer.
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                        I love to build amazing apps and data pipelines. I aim to reflect my capabilities, experiences, and achievements in the realm of full-stack data engineering.
+                        I love to design amazing web and apps.
                     </p>
                     <div className="flex justify-center">
                         <a
@@ -29,8 +29,8 @@ export default function About() {
                 <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
                     <img
                         className="object-cover object-center border border-black"
-                        src="https://github-readme-stats.vercel.app/api?username=ggurjar333&show_icons=true&theme=tokyonight"
-                        alt="My GitHub stats"
+                        src="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?q=80&w=1955&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                        alt="Hero banner"
                     />
                 </div>
             </div>
